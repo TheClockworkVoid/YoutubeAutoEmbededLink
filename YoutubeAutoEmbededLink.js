@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Vive la résistance!
 // @author       TheClockworkVoid
-// @match        https://www.youtube.com*
+// @match        https://www.youtube.com/*
 // ==/UserScript==
 
 (function () {
