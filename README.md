@@ -56,4 +56,11 @@ That means, the script must check in a loop, whether you have changed URL to upd
 
 If you will be clicking too fast (and your PC/internet connection will keep up), it may happen, you will be faster than the update interval and you may open a previously displayed video. In that case, just slow down.
 
+************************************************************************
+
+TBD
+
+1) move from interval loop to some observer to make it more performance-efficient
+2) Make direct embeded link buttons from the main page
+3) Make direct embeded link buttons from side panel and other places, where video blocks can be displayed
 
