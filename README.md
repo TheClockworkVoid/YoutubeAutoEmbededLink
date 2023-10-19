@@ -8,23 +8,34 @@ How?:
 Turns out, Youtube is not checking /embed/videoID. That means, if you manage to put a link on your page, by just one click, it will open a playable video in a new tab.
 
 
+
+**************************************************************************
 Installation:
 
 1) Download Tampermonkey
+
    Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+
    Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
    Opera: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
+
    Edge: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
+
    Safari: https://www.tampermonkey.net/index.php?browser=safari&locale=en
 
-2) Create a new script
+3) Create a new script
    Either directly from the icon "Create new Script"
    Or by opening the Dashboard and clicking on "+" icon (top-right)
 
-3) Copy-paste the .js file
+4) Copy-paste the .js file
    Copy the code as-is. The only thing you may need to change is the interval length.
 
+5) Save
 
+
+
+************************************************************************
 Usage:
 
 Open any video. Wait ~1-3 seconds. Click a red button link that will appear near the video title. Enjoy.
